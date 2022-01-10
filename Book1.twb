@@ -471,6 +471,7 @@
       <column datatype='real' default-format='p0%' name='[Discount]' role='measure' type='quantitative' />
       <column datatype='real' hidden='true' name='[Postal Code]' role='measure' type='quantitative' />
       <column datatype='real' default-format='C1033%' name='[Profit]' role='measure' type='quantitative' />
+<<<<<<< HEAD
       <column datatype='integer' name='[Quantity]' role='measure' type='quantitative' />
       <column datatype='real' default-format='C1033%' name='[Sales]' role='measure' type='quantitative' />
       <_.fcp.ObjectModelTableType.true...column caption='Orders' datatype='table' name='[__tableau_internal_object_id__].[Orders_31510A8C769F488796753E9DCB871D24]' role='measure' type='quantitative' />
@@ -489,6 +490,11 @@
           </encoding>
         </style-rule>
       </style>
+=======
+      <column datatype='real' default-format='C1033%' name='[Sales]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='Orders' datatype='table' name='[__tableau_internal_object_id__].[Orders_31510A8C769F488796753E9DCB871D24]' role='measure' type='quantitative' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+>>>>>>> d8a41e95f0eed4515eb29acc721335ee698b545e
       <semantic-values>
         <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
       </semantic-values>
@@ -615,6 +621,7 @@
       </table>
       <simple-id uuid='{CF1D9762-3C4D-4DBF-B7DE-68E78967B5E1}' />
     </worksheet>
+<<<<<<< HEAD
     <worksheet name='bars&amp;line chart over time'>
       <table>
         <view>
@@ -721,6 +728,8 @@
       </table>
       <simple-id uuid='{0A9A6DE8-4C95-4C8E-A062-27B857237D5F}' />
     </worksheet>
+=======
+>>>>>>> d8a41e95f0eed4515eb29acc721335ee698b545e
     <worksheet name='running sum'>
       <table>
         <view>
@@ -761,6 +770,7 @@
       </table>
       <simple-id uuid='{302B49E4-8D58-4AC9-9673-2C6FDE7A0A2D}' />
     </worksheet>
+<<<<<<< HEAD
     <worksheet name='scatter plot'>
       <table>
         <view>
@@ -858,6 +868,8 @@
       </table>
       <simple-id uuid='{9F7C390C-D3F1-4CF2-A449-FAD628A5584E}' />
     </worksheet>
+=======
+>>>>>>> d8a41e95f0eed4515eb29acc721335ee698b545e
   </worksheets>
   <windows source-height='30'>
     <window class='worksheet' name='Sheet 1'>
@@ -934,7 +946,11 @@
       </viewpoint>
       <simple-id uuid='{867020CD-11CC-44E2-A099-AB6C351DB7EC}' />
     </window>
+<<<<<<< HEAD
     <window class='worksheet' name='Sheet 3'>
+=======
+    <window class='worksheet' maximized='true' name='Sheet 3'>
+>>>>>>> d8a41e95f0eed4515eb29acc721335ee698b545e
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -969,6 +985,7 @@
       </viewpoint>
       <simple-id uuid='{E3A5047A-E333-40F9-BD5C-091B44498B45}' />
     </window>
+<<<<<<< HEAD
     <window class='worksheet' name='scatter plot'>
       <cards>
         <edge name='left'>
@@ -1131,6 +1148,8 @@
       </viewpoint>
       <simple-id uuid='{3F64DAAC-7A6A-4171-8C0F-531C3052DDFE}' />
     </window>
+=======
+>>>>>>> d8a41e95f0eed4515eb29acc721335ee698b545e
   </windows>
   <thumbnails>
     <thumbnail height='384' name='Sheet 1' width='384'>
@@ -3304,6 +3323,7 @@
       EgBCCKFTEgBCCKFTEgBCCKFTEgBCCKFTEgBCCKFTEgBCCKFTEgBCCKFTEgBCCKFT/wtagGID
       eOpG3gAAAABJRU5ErkJggg==
     </thumbnail>
+<<<<<<< HEAD
     <thumbnail height='384' name='bars&amp;line chart over time' width='384'>
       iVBORw0KGgoAAAANSUhEUgAAAYAAAAGACAYAAACkx7W/AAAACXBIWXMAAA7DAAAOwwHHb6hk
       AAAgAElEQVR4nOy9Z5Bk13mm+Zxr0pSvau8N0A3TAEiCoGBIAiQoEbQDaUhOUIyQOBI1sRIl
@@ -4598,6 +4618,8 @@
       KKVQSqFp2kce2Q/+ycvRv5AAEEKIFCVDQEIIkaIkAIQQIkX9f+GHg2qn1GqWAAAAAElFTkSu
       QmCC
     </thumbnail>
+=======
+>>>>>>> d8a41e95f0eed4515eb29acc721335ee698b545e
     <thumbnail height='384' name='running sum' width='384'>
       iVBORw0KGgoAAAANSUhEUgAAAYAAAAGACAYAAACkx7W/AAAACXBIWXMAAA7DAAAOwwHHb6hk
       AAAgAElEQVR4nOydd1RURxuHn11674gCooC9RsWOvcWusTeMGjV289mjsUUTe++K2Ess2FEs
@@ -6578,6 +6600,7 @@
       NI0AAABOSURBVFHW2MHu3k3zwJu0JxQSGPJgFQLuOccm221s8Atqmln+MGqq3yJb2yYnO2IH
       B5q3ad3oeF7mbd76YLGZk7dmx0YgwM3Ks73ff/wfa+cPjyZyUXAAAAAASUVORK5CYII=
     </thumbnail>
+<<<<<<< HEAD
     <thumbnail height='384' name='scatter plot' width='384'>
       iVBORw0KGgoAAAANSUhEUgAAAYAAAAGACAYAAACkx7W/AAAACXBIWXMAAA7DAAAOwwHHb6hk
       AAAgAElEQVR4nOzdd3zU9f3A8df37nKXvUMGgUyQsPcOoIBABVQK7qp11VVHraNWa22tVfur
@@ -8524,5 +8547,7 @@
       44/zta99DZVKxYgRI1Cr1eh0OoYNGwbA0qVLeeyxx2hsbLwkdRAGNpEMThAGKUVRUBQFSZLO
       2QP4PGWEK5cIAIIgCFcoMQQkCIJwhRIBQBAE4Qr1/wDBymZI5igh8QAAAABJRU5ErkJggg==
     </thumbnail>
+=======
+>>>>>>> d8a41e95f0eed4515eb29acc721335ee698b545e
   </thumbnails>
 </workbook>
